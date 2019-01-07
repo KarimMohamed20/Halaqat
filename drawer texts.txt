@@ -1,0 +1,25 @@
+	<string name="title_main">الرئيسية</string>
+	<string name="title_mus7af">المصحف</string>
+	<string name="title_downloads">التحميلات</string>
+	<string name="title_attendance">التحضير</string>
+	<string name="title_report">التقارير</string>
+	<string name="title_exams">الاختبارات</string>
+	<string name="title_survey">الاستبانات</string>
+	<string name="title_chat">المراسلات</string>
+	<string name="title_notes">المذكرة</string>
+	<string name="title_market">سوق خيركم</string>
+	<string name="title_rewards">الجوائز</string>
+	<string name="title_competitions">المسابقات</string>
+	<string name="title_activities">الأنشطة</string>
+	<string name="title_courses">الدورات</string>
+	<string name="title_live">البث المباشر</string>
+	<string name="title_invitations">الدعوات</string>
+	<string name="title_gallery">معرض الإنجازات</string>
+	<string name="title_certifications">شهاداتي</string>
+	<string name="title_my_id">بطاقتي</string>
+	<string name="title_support">الدعم الفني</string>
+	<string name="title_exchange_account">تغيير الحساب</string>
+	<string name="title_logout">تسجيل الخروج</string>
+
+
+  
